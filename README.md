@@ -39,3 +39,5 @@ Graphic Design Boot Camp
 Computer Culture and Business
 
 Computer Vision and Image Processing
+
+Game Elements
