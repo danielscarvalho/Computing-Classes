@@ -37,3 +37,5 @@ https://www.docker.com/
 Graphic Design Boot Camp
 
 Computer Culture and Business
+
+Computer Vision and Image Processing
