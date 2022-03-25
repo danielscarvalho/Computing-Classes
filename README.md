@@ -22,7 +22,8 @@ Desktop JavaFX Boot Camp
 - Text Editor
 - Image Editor
 - Git Tool
-- 
+- HTTP API Test Tool (Postman inspired)
+- Docker GUI 
 
 Ionic Vue Hybrid Mobile App Boot Camp
 https://ionicframework.com/vue
