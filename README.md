@@ -2,6 +2,20 @@
 ## Special Classes
 ### Computer Engineering & Business Management
 
+Languages for Computer Engineer:
+
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- HTML/CSS
+- SQL
+- Bash (Linux)
+- Latex
+
+---------------------
+
 Python Boot Camp
 - Data
 - Visualization
