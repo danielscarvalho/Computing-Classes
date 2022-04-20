@@ -16,53 +16,55 @@ Languages for Computer Engineering:
 
 ---------------------
 
-Python Boot Camp
-- Data
-- Visualization
+Disciplinas (cursos):
 
-Linux Boot Camp
+- Python Boot Camp
+  - Data
+  - Visualization
 
-C and 3D World with OpenGL
-https://www.opengl.org/
+- Linux Boot Camp
 
-C and Qt Desktop User Interface
-https://www.qt.io/
+- C and 3D World with OpenGL
+  https://www.opengl.org/
 
-Android Java Mobile App Boot Camp
+- C and Qt Desktop User Interface
+  https://www.qt.io/
 
-Desktop JavaFX Boot Camp
-- File Manager
-- Drawing Tool
-- Text Editor
-- Image Editor
-- Git Tool
-- HTTP API Test Tool (Postman inspired)
-- Docker GUI 
+- Android Java Mobile App Boot Camp
 
-Ionic Vue Hybrid Mobile App Boot Camp
-https://ionicframework.com/vue
+- Desktop JavaFX Boot Camp
+  - File Manager
+  - Drawing Tool
+  - Text Editor
+  - Image Editor
+  - Git Tool
+  - HTTP API Test Tool (Postman inspired)
+  - Docker GUI 
 
-Data Science Jorney
+- Ionic Vue Hybrid Mobile App Boot Camp
+  https://ionicframework.com/vue
 
-Cloud Boot Camp
+- Data Science Jorney
 
-Docker Boot Camp
-https://www.docker.com/
+- Cloud Boot Camp
 
-Graphic Design Boot Camp
+- Docker Boot Camp
+  https://www.docker.com/
 
-Computer Culture and Business Tech
+- Graphic Design Boot Camp
 
-Computer Vision and Image Processing
+- Computer Culture and Business Tech
 
-Game Elements
+- Computer Vision and Image Processing
 
-GEO Processamento
+- Game Elements
 
-Business intelligence (Data Warehouse)
+- GEO Processamento
 
-BigData & Data Lake
+- Business intelligence (Data Warehouse)
 
-World Models: Computational, math and statistical modeling
+- BigData & Data Lake
 
-Latex and paper publishing
+- World Models: Computational, math and statistical modeling
+
+- Latex and paper publishing
