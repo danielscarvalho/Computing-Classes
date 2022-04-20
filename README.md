@@ -44,3 +44,7 @@ Computer Vision and Image Processing
 Game Elements
 
 GEO Processamento
+
+BI (Data Warehouse)
+
+BigData & Data Lake
