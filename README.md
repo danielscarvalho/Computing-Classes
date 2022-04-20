@@ -45,6 +45,6 @@ Game Elements
 
 GEO Processamento
 
-BI (Data Warehouse)
+Business intelligence (Data Warehouse)
 
 BigData & Data Lake
