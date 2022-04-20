@@ -2,7 +2,7 @@
 ## Special Classes
 ### Computer Engineering & Business Management
 
-Languages for Computer Engineer:
+Languages for Computer Engineering:
 
 - C
 - C++
