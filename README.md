@@ -1,6 +1,6 @@
-# FESA-Classes
-## FESA Special Classes
-### Computer Engineering
+# Computing-Classes
+## Special Classes
+### Computer Engineering & Business Management
 
 Python Boot Camp
 - Data
