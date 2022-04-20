@@ -64,3 +64,5 @@ Business intelligence (Data Warehouse)
 BigData & Data Lake
 
 World Models: Computational, math and statistical modeling
+
+Latex and paper publishing
