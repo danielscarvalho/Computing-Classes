@@ -14,6 +14,19 @@ Languages for Computer Engineering:
 - Bash (Linux)
 - Latex
 
+Global reference source for relevant programming languages:
+
+Technology Banchmark
+
+  - https://www.tiobe.com/tiobe-index/
+  - https://insights.stackoverflow.com/survey/2021
+  - https://www.hackerrank.com/research/innovator-report/2021
+  - https://w3techs.com/
+  - https://www.jetbrains.com/lp/devecosystem-2021/
+  - https://db-engines.com/en/ranking
+  - https://2021.stateofjs.com/en-US/
+  - https://blogs.oracle.com/javamagazine/post/the-largest-survey-ever-of-java-developers
+
 ---------------------
 
 Disciplinas (cursos):
