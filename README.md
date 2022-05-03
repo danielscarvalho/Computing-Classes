@@ -82,4 +82,4 @@ Disciplinas (cursos):
 
 - Latex and paper publishing
 
-- Machine Learning Lab
+- Machine Learning Lab - Learn by Doing
