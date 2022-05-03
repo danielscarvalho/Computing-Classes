@@ -81,3 +81,5 @@ Disciplinas (cursos):
 - World Models: Computational, math and statistical modeling
 
 - Latex and paper publishing
+
+- Machine Learning Lab
