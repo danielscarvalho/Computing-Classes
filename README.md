@@ -70,6 +70,12 @@ Disciplinas (cursos):
 
 - Computer Vision and Image Processing
 
+- WEB 2D and 3D tech
+  - X3D
+  - Canvas
+  - SVG
+  - Threejs - https://threejs.org/
+
 - Virtual Reality and Metaverse
   - Blender 3D
   - X3D
