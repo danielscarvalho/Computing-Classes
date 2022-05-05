@@ -70,6 +70,12 @@ Disciplinas (cursos):
 
 - Computer Vision and Image Processing
 
+- Virtual Reality and Metaverse
+  - Blender 3D
+  - X3D
+  - Unity
+  - NVIDIA - GPU  
+
 - Game Elements
 
 - GEO Processamento
@@ -83,3 +89,5 @@ Disciplinas (cursos):
 - Latex and paper publishing
 
 - Machine Learning Lab - Learn by Doing
+
+- GPU Parallel Processing
