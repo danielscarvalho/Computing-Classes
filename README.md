@@ -97,3 +97,9 @@ Disciplinas (cursos):
 - Machine Learning Lab - Learn by Doing
 
 - GPU Parallel Processing
+- 2D Drawing with canvas
+  - JavaFX
+  - JavaScript (HTML5, CSS3)
+  - SVG
+  - Python - py5 - https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf
+  - OpenGL/WebGL
