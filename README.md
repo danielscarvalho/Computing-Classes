@@ -108,3 +108,6 @@ Disciplinas (cursos):
 - Data Center Technology
 
 - Zip and compressed file navigator
+- Docker management tool
+- IPFS navigator tool
+- TCP/IP navigator tool
